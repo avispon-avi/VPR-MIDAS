@@ -1,7 +1,0 @@
-[12:04:23] Output window cleared
-[12:04:23] Graphs cleared
-[12:04:23] Added battery variable: pm.vbat
-[12:04:24] XIAO camera integration: 7 log vars subscribed
-[12:04:24] Logging started - Motion: 4 vars, Battery: 1 vars, Camera: 7 vars
-[12:04:28] EMERGENCY STOP: Height sensor failure detected! Height stuck at 0.000m (change: 0.001m) after full 1.0s takeoff to 0.300m target. Expected >0.005m change with commanded thrust.
-[12:04:28] Flight Error: EMERGENCY STOP: Height sensor failure detected! Height stuck at 0.000m (change: 0.001m) after full 1.0s takeoff to 0.300m target. Expected >0.005m change with commanded thrust.

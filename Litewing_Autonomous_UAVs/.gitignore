@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PyTorch model weights (large files — use Git LFS or download separately)
+# Uncomment the line below if NOT using Git LFS:
+# *.pth
+
+# ONNX exports
+*.onnx
+
+# Training data (download separately)
+office/
+_tmp_test/
+
+# Session outputs (generated at runtime)
+*.csv
+trajectory.png
+fusion_trajectory.png
+vo_trajectory.png
+pose_overlay.jpg
+midas_depth.png
+midas_test_output.png
+depth_session.csv
+depth_out/
+
+# Arduino build artifacts
+firmware/xiao_camera_server/build/
+
+# Torch hub cache
+.cache/

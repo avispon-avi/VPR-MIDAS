@@ -40,10 +40,9 @@ struct WiFiCred {
 };
 
 WiFiCred wifiList[] = {
-  {"DESKTOP-D5GK9FR 1976", "]46205Ge"},     // Desktop hotspot
-        // Phone hotspot
-  // Add more networks below if needed:
-  // {"MyHomeWiFi", "password123"},
+  {"YOUR_HOTSPOT_NAME", "YOUR_PASSWORD"},     // ← EDIT THIS: your WiFi/hotspot name & password
+  // {"SecondNetwork", "password2"},           // ← Optional: add backup networks
+  // {"ThirdNetwork", "password3"},
 };
 const int WIFI_COUNT = sizeof(wifiList) / sizeof(wifiList[0]);
 
