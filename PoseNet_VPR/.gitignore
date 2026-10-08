@@ -1,5 +1,0 @@
-office/
-_tmp_test/
-*.pth
-*.onnx
-__pycache__/
