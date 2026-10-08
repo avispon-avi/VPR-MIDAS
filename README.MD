@@ -1,4 +1,4 @@
-# 🛸 Litewing — Autonomous UAV Indoor Localization System
+# Litewing — Autonomous UAV Indoor Localization System
 
 **Real-time visual indoor localization using a XIAO ESP32-S3 Sense camera, PoseNet, Visual Odometry, and MiDaS depth estimation.**
 
@@ -59,7 +59,7 @@ A fusion controller automatically switches between PoseNet and Visual Odometry b
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Step 1: Flash the XIAO Camera
 
@@ -270,12 +270,3 @@ This project is for academic and research purposes.
 
 ---
 
-## 🤝 Contributing
-
-1. Fork the repo
-2. Create a feature branch
-3. Submit a pull request
-
----
-
-*Built with PyTorch, OpenCV, MiDaS, and the XIAO ESP32-S3 Sense.*
